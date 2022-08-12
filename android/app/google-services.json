@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "618417660400",
+    "project_id": "fbase-dmo",
+    "storage_bucket": "fbase-dmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618417660400:android:c02790205197762f47fd35",
+        "android_client_info": {
+          "package_name": "com.example.googlelogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618417660400-tsi23ps9eoquiaqifukpniraptdjknaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlelogintest",
+            "certificate_hash": "c5d992b8d3461386d1be9ae8e328d4db5c7c900f"
+          }
+        },
+        {
+          "client_id": "618417660400-0c449e78lob53la7282kdjfrh3c9qom8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HwZF4Rhpcy3szNRS4TlWVcXeVIvMe-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618417660400-0c449e78lob53la7282kdjfrh3c9qom8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618417660400-p5i83na9f6s3334kg0j4m2fho8tvf52u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teszt.webflutter.flutterwebteszt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618417660400:android:6e186030ebb6be1647fd35",
+        "android_client_info": {
+          "package_name": "com.teszt.webflutter.flutterwebteszt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618417660400-0c449e78lob53la7282kdjfrh3c9qom8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HwZF4Rhpcy3szNRS4TlWVcXeVIvMe-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618417660400-0c449e78lob53la7282kdjfrh3c9qom8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618417660400-p5i83na9f6s3334kg0j4m2fho8tvf52u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teszt.webflutter.flutterwebteszt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618417660400:android:a3e96074281e67ac47fd35",
+        "android_client_info": {
+          "package_name": "hu.astar.employeetracking.web.astartapp_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618417660400-0c449e78lob53la7282kdjfrh3c9qom8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HwZF4Rhpcy3szNRS4TlWVcXeVIvMe-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618417660400-0c449e78lob53la7282kdjfrh3c9qom8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618417660400-p5i83na9f6s3334kg0j4m2fho8tvf52u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teszt.webflutter.flutterwebteszt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
