@@ -43495,9 +43495,9 @@ m.toString
 return s+"(displayName: "+A.d(q)+", email: "+A.d(p)+", phoneNumber: "+A.d(o)+", photoURL: "+A.d(n)+", providerId: "+m+", uid: "+A.d(r.h(0,"uid"))+")"}}
 A.anI.prototype={
 j(a){var s,r=this.a
-r=J.cf(r==null?null:A.zb(r,!1))
+r=J.cf(r==null?null:A.zb(r,!0))
 s=this.b
-return"UserMetadata(creationTime: "+r+", lastSignInTime: "+J.cf(s==null?null:A.zb(s,!1))+")"}}
+return"UserMetadata(creationTime: "+r+", lastSignInTime: "+J.cf(s==null?null:A.zb(s,!0))+")"}}
 A.Li.prototype={
 a1D(a,b){var s,r,q,p=this,o=null
 p.f=b
