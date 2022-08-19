@@ -31,12 +31,12 @@
   <link rel="icon" type="image/png" href="favicon.png"/>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBPwE47WioxgdT5K-JmyORt9FxrUckfRdE"></script>
 
-  <title>Employee Tracking stuff</title>
+  <title>Employee Tracking</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2951711490';
+    var serviceWorkerVersion = '3646972426';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
