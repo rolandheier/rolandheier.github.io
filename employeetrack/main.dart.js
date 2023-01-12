@@ -8862,8 +8862,8 @@ _.ai$=_.ab$=0
 _.au$=!1},
 b3J(a){var s=null
 switch(a.a){case"Overview":return A.azZ(new A.Dk(s))
-case"Users":return A.azZ(new A.TY(s))
-case"Projects":return A.azZ(new A.R1(s))
+case"Felhaszn\xe1l\xf3k":return A.azZ(new A.TY(s))
+case"Projektek":return A.azZ(new A.R1(s))
 default:return A.azZ(new A.Dk(s))}},
 azZ(a){return A.aJs(new A.aA_(a),null,t.z)},
 aA_:function aA_(a){this.a=a},
@@ -43608,8 +43608,8 @@ zL(a){var s=this.ax
 if(!J.e(s.gn(s),a))this.ay.sn(0,a)},
 VQ(a){var s=this
 switch(a){case"Overview":return s.rt(B.Em,a)
-case"Users":return s.rt(B.Eo,a)
-case"Projects":return s.rt(B.En,a)
+case"Felhaszn\xe1l\xf3k":return s.rt(B.Eo,a)
+case"Projektek":return s.rt(B.En,a)
 case"Authentication":return s.rt(B.o8,a)
 default:return s.rt(B.o8,a)}},
 rt(a,b){var s=this.ax
@@ -43703,8 +43703,8 @@ s=A.iI(new A.bz(r))
 if(J.e(p,s.gea(s).a.d.h(0,"email")))this.a.push(A.e7(q.bE(0,"email"),o))},
 $S:146}
 A.pQ.prototype={
-K(a,b){var s=null,r=t.p,q=A.bL(A.a([new A.c0(new A.aL(0,0,12,0),A.aDm("assets/icons/logo.png",100,s),s),A.dA(A.bw(s,s,B.k,s,s,s,s,s,s,s,s,s,s),1)],r),B.q,B.l,B.o,s),p=A.aq(s,30,s),o=A.bL(A.a([A.b2("Login",s,s,s,A.aNP(s,s,s,s,s,s,s,"Roboto",s,30,s,B.z,A.K([B.E2,new A.cn("e735762739638d19335103f8e7a343545560f4b2265fd35a4f0f516f512a7760",109484),B.E3,new A.cn("aece4c53901fff188a2cb1aab1024ea53b459e2181d47d9b3700c13d33ade89e",116036),B.nV,new A.cn("9d1bd6e2cc14a33517018f1bbfdc878cb18e7894f39fc7c36436ae18440621e7",108652),B.nW,new A.cn("0810007c837dfd034071c166e5f3ed111b0180b2f6af17a5c14e006a8e05784f",115656),B.nX,new A.cn("030868028bda24a27a45e0be44c8ae15544762b94f80da746c8b8a1c05f8e952",107800),B.nY,new A.cn("6a79346603274d80f27fb4de32a0e7a60f62c53c8069df2750e79b8f10e30649",114644),B.nZ,new A.cn("388ace661d10e5756d4de58035d6687cf35c0b11c8185b098468741ca2e8a6d4",109344),B.o_,new A.cn("257c7750d0c1570dc2324571f2998d43e18649848595361a6b136bb0d3d2efb2",116372),B.o0,new A.cn("ba3855457bdc103784c39219f0ce666683084df07dbd7eb7d8c35a40cf8f1c8b",109712),B.o1,new A.cn("8c9936227e9fe936594819bbf4aa9a26d9b044f0b440800a4ade3e3e749f54aa",116424),B.o2,new A.cn("a1ba74d13db1b16771b1d8e705e4c9282ef1d09492783304ebc025adb6ba1914",109832),B.o3,new A.cn("a4c423dcbda812fa36cb0325f3aad0fd9847e8a5b0a26f31094db0666e721c8c",116668)],t.gm,t.Ks),s,s,s,s,s,s,s,s),s,s,s)],r),B.q,B.l,B.o,s),n=A.bL(A.a([new A.c_("Welcome on the admin panel",20,B.bU,B.x,s)],r),B.q,B.l,B.o,s),m=A.aq(s,15,s),l=A.eV(!0,B.J,!1,s,s,s,s,s,2,A.ev(s,new A.cw(4,A.dJ(20),B.as),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"example@domain.com",s,s,s,s,!1,s,s,s,"Email",s,s,s,s,s,s,s,s,s,s,s,s,s),!0,s,!0,s,!1,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,!1,s,s,B.ah,s,s,s,s,s,s,s,B.O,s,B.aj,s,s,s),k=A.aq(s,15,s),j=A.eV(!0,B.J,!1,s,s,s,s,s,2,A.ev(s,new A.cw(4,A.dJ(20),B.as),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"**********",s,s,s,s,!1,s,s,s,"Password",s,s,s,s,s,s,s,s,s,s,s,s,s),!0,s,!0,s,!1,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,!1,s,s,B.ah,s,s,s,s,s,s,s,B.O,s,B.aj,s,s,s),i=A.aq(s,15,s),h=A.bL(A.a([A.bL(A.a([A.aI2(s,s,new A.a2z(),!0),new A.c_("Remember Me",12,B.bU,B.x,s)],r),B.q,B.l,B.o,s),new A.c_("Forgot Password",14,B.ew,B.x,s)],r),B.q,B.il,B.o,s),g=A.aq(s,15,s),f=A.mh(!1,!0,A.bw(B.N,new A.c_("Login",12,B.p,B.x,s),B.k,s,s,new A.dK(B.io,s,s,A.dJ(20),s,s,B.at),s,s,s,new A.aL(0,16,0,16),s,s,17976931348623157e292),s,!0,s,s,s,s,s,s,s,s,s,s,new A.a2A(),s,s,s),e=A.aq(s,15,s),d=A.B6(s,s,s,s,s,s,s,new A.R(1/0,50),B.n,s,s,B.p,s,s,s,s,s,s)
-return A.aI0(A.alj(s,A.dl(A.bw(s,A.br(A.a([q,p,o,n,m,l,k,j,i,h,g,f,e,A.nb(A.Bh(B.Ee,B.fl),A.b2("Sign in with Google!",s,s,s,s,s,s,s),new A.a2B(b),d),A.aq(s,15,s),A.RO(s,s,B.bx,!0,s,A.fe(A.a([A.fe(s,A.eW(s,s,B.ew,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"Register")],t.VO),s,s),B.O,s,s,1,B.ay)],r),B.q,B.ik,B.o),B.k,s,new A.aJ(0,400,0,1/0),s,s,s,s,new A.aL(24,24,24,24),s,s,s),s,s),s,s),new A.a2C(),t.sS)}}
+K(a,b){var s=null,r="Bejelentkez\xe9s",q=t.p,p=A.bL(A.a([new A.c0(new A.aL(0,0,12,0),A.aDm("assets/icons/logo.png",100,s),s),A.dA(A.bw(s,s,B.k,s,s,s,s,s,s,s,s,s,s),1)],q),B.q,B.l,B.o,s),o=A.aq(s,30,s),n=A.bL(A.a([A.b2(r,s,s,s,A.aNP(s,s,s,s,s,s,s,"Roboto",s,30,s,B.z,A.K([B.E2,new A.cn("e735762739638d19335103f8e7a343545560f4b2265fd35a4f0f516f512a7760",109484),B.E3,new A.cn("aece4c53901fff188a2cb1aab1024ea53b459e2181d47d9b3700c13d33ade89e",116036),B.nV,new A.cn("9d1bd6e2cc14a33517018f1bbfdc878cb18e7894f39fc7c36436ae18440621e7",108652),B.nW,new A.cn("0810007c837dfd034071c166e5f3ed111b0180b2f6af17a5c14e006a8e05784f",115656),B.nX,new A.cn("030868028bda24a27a45e0be44c8ae15544762b94f80da746c8b8a1c05f8e952",107800),B.nY,new A.cn("6a79346603274d80f27fb4de32a0e7a60f62c53c8069df2750e79b8f10e30649",114644),B.nZ,new A.cn("388ace661d10e5756d4de58035d6687cf35c0b11c8185b098468741ca2e8a6d4",109344),B.o_,new A.cn("257c7750d0c1570dc2324571f2998d43e18649848595361a6b136bb0d3d2efb2",116372),B.o0,new A.cn("ba3855457bdc103784c39219f0ce666683084df07dbd7eb7d8c35a40cf8f1c8b",109712),B.o1,new A.cn("8c9936227e9fe936594819bbf4aa9a26d9b044f0b440800a4ade3e3e749f54aa",116424),B.o2,new A.cn("a1ba74d13db1b16771b1d8e705e4c9282ef1d09492783304ebc025adb6ba1914",109832),B.o3,new A.cn("a4c423dcbda812fa36cb0325f3aad0fd9847e8a5b0a26f31094db0666e721c8c",116668)],t.gm,t.Ks),s,s,s,s,s,s,s,s),s,s,s)],q),B.q,B.l,B.o,s),m=A.bL(A.a([new A.c_("Welcome on the admin panel",20,B.bU,B.x,s)],q),B.q,B.l,B.o,s),l=A.aq(s,15,s),k=A.eV(!0,B.J,!1,s,s,s,s,s,2,A.ev(s,new A.cw(4,A.dJ(20),B.as),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"pelda@domain.com",s,s,s,s,!1,s,s,s,"Email",s,s,s,s,s,s,s,s,s,s,s,s,s),!0,s,!0,s,!1,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,!1,s,s,B.ah,s,s,s,s,s,s,s,B.O,s,B.aj,s,s,s),j=A.aq(s,15,s),i=A.eV(!0,B.J,!1,s,s,s,s,s,2,A.ev(s,new A.cw(4,A.dJ(20),B.as),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"**********",s,s,s,s,!1,s,s,s,"Jelsz\xf3",s,s,s,s,s,s,s,s,s,s,s,s,s),!0,s,!0,s,!1,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,!1,s,s,B.ah,s,s,s,s,s,s,s,B.O,s,B.aj,s,s,s),h=A.aq(s,15,s),g=A.bL(A.a([A.bL(A.a([A.aI2(s,s,new A.a2z(),!0),new A.c_("Eml\xe9kezz r\xe1m",12,B.bU,B.x,s)],q),B.q,B.l,B.o,s),new A.c_("Elfelejtett jelsz\xf3",14,B.ew,B.x,s)],q),B.q,B.il,B.o,s),f=A.aq(s,15,s),e=A.mh(!1,!0,A.bw(B.N,new A.c_(r,12,B.p,B.x,s),B.k,s,s,new A.dK(B.io,s,s,A.dJ(20),s,s,B.at),s,s,s,new A.aL(0,16,0,16),s,s,17976931348623157e292),s,!0,s,s,s,s,s,s,s,s,s,s,new A.a2A(),s,s,s),d=A.aq(s,15,s),c=A.B6(s,s,s,s,s,s,s,new A.R(1/0,50),B.n,s,s,B.p,s,s,s,s,s,s)
+return A.aI0(A.alj(s,A.dl(A.bw(s,A.br(A.a([p,o,n,m,l,k,j,i,h,g,f,e,d,A.nb(A.Bh(B.Ee,B.fl),A.b2("Google bejelentkez\xe9s",s,s,s,s,s,s,s),new A.a2B(b),c),A.aq(s,15,s),A.RO(s,s,B.bx,!0,s,A.fe(A.a([A.fe(s,A.eW(s,s,B.ew,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"Register")],t.VO),s,s),B.O,s,s,1,B.ay)],q),B.q,B.ik,B.o),B.k,s,new A.aJ(0,400,0,1/0),s,s,s,s,new A.aL(24,24,24,24),s,s,s),s,s),s,s),new A.a2C(),t.sS)}}
 A.a2C.prototype={
 $1(a){return new A.o0(A.aIZ(),$.aX())},
 $S:140}
@@ -44257,7 +44257,7 @@ q=A.a1(r).i("Z<1,rN>")
 o.push(A.br(A.a8(new A.Z(r,new A.amF(b),q),!0,q.i("aT.E")),B.q,B.l,B.be))
 return A.bw(s,A.aJp(o,s,!1),B.k,B.eA,s,s,s,s,s,s,s,s,s)}}
 A.amF.prototype={
-$1(a){var s=J.e(a,"Authentication")?"Log Out":a
+$1(a){var s=J.e(a,"Authentication")?"Kijelentkez\xe9s":a
 return new A.rN(s,new A.amE(a,this.a),null)},
 $S:293}
 A.amE.prototype={
@@ -92199,7 +92199,7 @@ $.WJ=A.v(t.N,t._8)
 $.aFu=""
 $.aFv=""
 $.aBG=""
-$.b4I=["Overview","Users","Projects","Authentication"]
+$.b4I=["Overview","Felhaszn\xe1l\xf3k","Projektek","Authentication"]
 $.aw2=A.aO(t.xM)
 $.Xe=A.a([],A.P("p<h2>"))
 $.aDb=A.v(t.N,A.P("v5"))
